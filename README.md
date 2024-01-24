@@ -1,2 +1,2 @@
-# Imers-o-Alura-Spotfy
-Imersão-Alura-Spotfy
+# Imersao-Alura-Spotfy
+Imersao-Alura-Spotfy
